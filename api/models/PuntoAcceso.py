@@ -1,7 +1,7 @@
 import uuid
 from django.db import models
-from .horario import Horario
-from .tipo_acceso import TipoAcceso
+from .Horario import Horario
+from .TipoAcceso import TipoAcceso
 
 
 class PuntoAcceso(models.Model):

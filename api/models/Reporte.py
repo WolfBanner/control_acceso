@@ -1,6 +1,6 @@
 import uuid
 from django.db import models
-from .punto_acceso import PuntoAcceso
+from .PuntoAcceso import PuntoAcceso
 
 
 class Reporte(models.Model):

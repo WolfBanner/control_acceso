@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-from api.models.horario import Horario
-from api.models.punto_acceso import PuntoAcceso
-from api.models.reporte import Reporte
-from api.models.rol import Rol
-from api.models.tipo_acceso import TipoAcceso
-from api.models.usuario import Usuario
+from api.models.Horario import Horario
+from api.models.PuntoAcceso import PuntoAcceso
+from api.models.Reporte import Reporte
+from api.models.Rol import Rol
+from api.models.TipoAcceso import TipoAcceso
+from api.models.Usuario import Usuario
